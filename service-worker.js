@@ -2,22 +2,22 @@ var dataCacheName = 'weatherData-v1';
 var cacheName = 'weatherPWA-step-10-6';
 var filesToCache = [
   '/',
-  '/index.html',
-  '/scripts/app.js',
-  '/styles/inline.css',
-  '/images/clear.png',
-  '/images/cloudy-scattered-showers.png',
-  '/images/cloudy.png',
-  '/images/fog.png',
-  '/images/ic_add_white_24px.svg',
-  '/images/ic_refresh_white_24px.svg',
-  '/images/partly-cloudy.png',
-  '/images/rain.png',
-  '/images/scattered-showers.png',
-  '/images/sleet.png',
-  '/images/snow.png',
-  '/images/thunderstorm.png',
-  '/images/wind.png'
+  'progresiveApp/index.html',
+  'progresiveApp/scripts/app.js',
+  'progresiveApp/styles/inline.css',
+  'progresiveApp/images/clear.png',
+  'progresiveApp/images/cloudy-scattered-showers.png',
+  'progresiveApp/images/cloudy.png',
+  'progresiveApp/images/fog.png',
+  'progresiveApp/images/ic_add_white_24px.svg',
+  'progresiveApp/images/ic_refresh_white_24px.svg',
+  'progresiveApp/images/partly-cloudy.png',
+  'progresiveApp/images/rain.png',
+  'progresiveApp/images/scattered-showers.png',
+  'progresiveApp/images/sleet.png',
+  'progresiveApp/images/snow.png',
+  'progresiveApp/images/thunderstorm.png',
+  'progresiveApp/images/wind.png'
 ];
 
 
